@@ -3,7 +3,6 @@ import React from "react";
 const  home = () => {
     return (
     <div className="p-10 flex flex-col text-white gap-8">
-        {/* Navigations */}
         <div className=" flex flex-row justify-between items-center mx-8">
             <div className="flex flex-col gap-4 w-6/12">
                 <h1 className="text-3xl" style={{ color: "#a7a9be" }}>Hello, I'm</h1>
